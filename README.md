@@ -36,7 +36,7 @@ LinguaLearn is a comprehensive language learning platform that combines interact
 
 1. Clone the repository:
 2. git clone https://github.com/yourusername/lingualearn.git
-3. 2. Open `index.html` in your preferred browser.
+3. Open `index.html` in your preferred browser.
 3. Start your language learning journey!
 
 ## 📱 Responsive Design
